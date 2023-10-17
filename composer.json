@@ -1,0 +1,14 @@
+{
+    "name": "ozodbek/press",
+    "description": "An elegant markdown-powered blog for the Laravel framework!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ozodbek Juraev",
+            "email": "ozodbekmcfly@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.36"
+    }
+}
