@@ -10,5 +10,15 @@
     ],
     "require-dev": {
         "orchestra/testbench": "^6.36"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ozodbek\\Press\\": "src/"
+        } 
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ozodbek\\Press\\Tests\\": "tests/"
+        } 
     }
 }
